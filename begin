@@ -1,3 +1,4 @@
+String url = props.getProperty("db.url");
 public void fetch() throws SQLException, IOException
 public class OracleJdbcTest
 } finally {
