@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 test.init();
 ResultSet rs = ps.executeQuery();
 out.close();
